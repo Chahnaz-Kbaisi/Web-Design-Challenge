@@ -1,4 +1,4 @@
-/* CSS Styling Sheet for all pages */
+/* CSS Styling Sheet for all web pages */
 
 /* Body */
 body {
@@ -84,7 +84,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
 }
-/* Box */
+/* Boxes */
 .box {
     margin-top: 60px;
     margin-bottom: 62px;
